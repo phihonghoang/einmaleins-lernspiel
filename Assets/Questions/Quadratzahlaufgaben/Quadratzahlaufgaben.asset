@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6d77b9e8f2067e4285261bf76a2c97e, type: 3}
+  m_Name: Quadratzahlaufgaben
+  m_EditorClassIdentifier: 
+  categoryName: Quadratzahlaufgaben
+  questions:
+  - {fileID: 11400000, guid: 308827e504934dc44b2c278faca8a9a3, type: 2}
+  - {fileID: 11400000, guid: 344a02a26db9cb340bd8f8dff550a41a, type: 2}
+  - {fileID: 11400000, guid: 811aca78c1ea79a439f7960830239128, type: 2}
+  - {fileID: 11400000, guid: e07949197c310ac4596fb27cf83d3487, type: 2}
+  - {fileID: 11400000, guid: 0a02388ff9509234683938da35dca3b6, type: 2}
+  - {fileID: 11400000, guid: 3b66808ef78872c47b478bedb23f8bed, type: 2}
+  - {fileID: 11400000, guid: 7ad65b0153ab8f84db5bed6ef36a3655, type: 2}
+  - {fileID: 11400000, guid: 51e4ae2683f257c409f037f14ce9e349, type: 2}
+  - {fileID: 11400000, guid: ef37d92851293b0479d404261824da43, type: 2}
